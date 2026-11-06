@@ -6,4 +6,5 @@
 
 ## refs/ 출처
 - campus_future.png, suwon_aerial_real.png, library_real.png — 제작자 제공 참고 이미지
-- trophy_crop.jpg — Wikimedia Commons "AHL (40579128221).jpg" 일부 크롭, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:AHL_(40579128221).jpg)
+- library_facade.png — library_real.png에서 건물 외벽만 크롭(나무 제외), 재질·색 참고용
+- trophy_crop.jpg — Wikimedia Commons "P20211108AS-1503 (51846495221).jpg" (White House 공식 사진, Public domain) 트로피 부분 크롭
